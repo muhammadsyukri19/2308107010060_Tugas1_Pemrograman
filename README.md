@@ -50,3 +50,7 @@ Seperti halnya tahun ini, 2024 merupakan tahun kabisat. Tujuan dari program ini 
 ## Penggunaan
   Untuk mengeksekusi program yang telah dibuat, program tersebut harus di compile terlebih dahulu agar bahasa C tersebut dapat diterjemahkan oleh bahasa komputer.
 Compile dapat dilakukan dengan cara gcc 2308107010060_2.c -o 2308107010060_2. Kemudian di eksekusi dengan ./2308107010060_2.
+
+## Penulis
+  Program ini dibuat oleh Muhammad Syukri, dengan NPM 2308107010060.
+  
